@@ -6,6 +6,6 @@ package h01;
 public class HalloRocDev {
 
     public static void main(String[] args) {
-        System.out.println("Gotta catch em all!");
+        System.out.println("I caught them all!");
     }
 }
