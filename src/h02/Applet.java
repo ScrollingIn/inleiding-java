@@ -1,14 +1,3 @@
-/*
-
-@ (#) Show.java 1.0 03/02/26
-
-        *
-
-        Example 2.1
-
-        *
-
-        */
 
 // import the required classes from the Java library
         import java.awt. *;
