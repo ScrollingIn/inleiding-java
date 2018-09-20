@@ -13,15 +13,15 @@ public class EurosToDevide extends Applet {
         outcome = a / b;
     }
     public void paint(Graphics g){
-    g.drawString("Jan", 0, 20);
-    g.drawString("Ali", 0,30);
-    g.drawString("Jeannette", 0,40);
-    g.drawString("Malina", 0,50);
+        g.drawString("Jan", 0, 20);
+        g.drawString("Ali", 0,30);
+        g.drawString("Jeannette", 0,40);
+        g.drawString("Malina", 0,50);
 
-    g.setColor(Color.green);
-    g.drawString("€" + outcome,100,20);
-    g.drawString("€" + outcome,100,30);
-    g.drawString("€" + outcome,100,40);
-    g.drawString("€" + outcome,100,50);
+        g.setColor(Color.green);
+        g.drawString("€" + outcome,100,20);
+        g.drawString("€" + outcome,100,30);
+        g.drawString("€" + outcome,100,40);
+        g.drawString("€" + outcome,100,50);
     }
 }
