@@ -1,7 +1,7 @@
 package h08.Assignments;
 
-import java.applet.Applet;
 import java.awt.*;
+import java.applet.Applet;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
